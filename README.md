@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** from Rosario, Argentina. 
 - Deepening my knowledge of **Big Data** and **Deep Learning**.  
 
 ---
-
+- 📫 How to reach me **augustovetta@hotmail.com**
 <h3 align="left">Connect with me:</h3>
 - **augustovetta@hotmail.com**
 <p align="left">
