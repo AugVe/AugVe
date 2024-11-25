@@ -1,8 +1,24 @@
-<h1 align="center">Hi 👋, I'm Augusto Vetta</h1>
-<h3 align="center">I specialize in machine learning as a data scientist and graduated from SoyHenry.</h3>
+# 👋 Hi! I'm Augusto Vetta  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+Welcome to my GitHub profile! I'm a **Data Scientist** from Rosario, Argentina. I'm 24 years old and a graduate of the SoyHenry Data Science Bootcamp, where I developed strong skills in data analysis, machine learning, and data-driven project development.  
+
+---
+
+## 🛠️ **Skills and Tools**  
+- **Languages:** Python, SQL  
+- **Libraries and Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Platforms and Tools:** Jupyter Notebook, Visual Studio Code, Google Cloud Platform, Tableau  
+- **Other:** Exploratory Data Analysis (EDA), Predictive Modeling, Data Visualization  
+
+---
+
+## 🌱 Currently Learning  
+- Exploring new ways to apply data science to real-world challenges.  
+- Deepening my knowledge of **Big Data** and **Deep Learning**.  
+
+---
+
+- 📫 How to reach me **augustovetta@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
