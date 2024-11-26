@@ -25,3 +25,4 @@ Welcome to my GitHub profile! I'm a **Data Scientist** from Rosario, Argentina. 
 </p>
 
 -  **augustovetta@hotmail.com**
+- Phone: +543413703748
